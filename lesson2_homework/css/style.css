@@ -520,6 +520,7 @@ input:focus {
    /* margin: 0 12px 0 0;*/
     border: 1px solid #ffffff;
     border-radius: 19px;
+    font-size: 0px;
 }
 .tw:hover,
 .fb:hover,
